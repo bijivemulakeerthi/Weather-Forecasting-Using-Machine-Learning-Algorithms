@@ -9,7 +9,7 @@ Weather prediction is crucial in many fields with operations and protection requ
 This research procedure will use a weather dataset. The dataset that was collected was from Cambridge University’s website and Kaggle . Source:- (https://www.cl.cam.ac.uk/weather/),  (https://www.kaggle.com/datasets/thedevastator/weather-prediction/data?select=weather_prediction_dataset.csv)
 
 This dataset consists of descriptions of meteorological variables along with both raw and Units converted forms. The other independent variables are cloud cover, abbreviated as CC in oktas, wind direction as DD in degrees, wind speed as FG and gust as FX in m/s and humidity abbreviated as HU in fraction of 100 (Kaggle, 2024). The pressure (PP) is given in 1000 hPa, global radiation (QQ) in 100 Wm², and precipitation amount (RR) in 10 mm, Sunshine duration (SS) is in hours, the mean temperature (TG) together with the minimum and maximum temperatures (TN, TX) is in °C. The present features allow for a detailed evaluation of the weather status within the atmosphere, temperature, and radiation. 
-https://github.com/bijivemulakeerthi/Keerthi-Bijivemula/commit/fe69ecc3cb7647104a8aac8b446926c6bc781d3f
+![Alt Text](relative/path/to/image)
 
 ## Selection of Algorithm models for Research
 ## Linear Regression
