@@ -37,4 +37,8 @@ R² is the statistical coefficient which determines the extent to which the depe
 
 RMSE gives an estimation of the mean squared error which gives valuable information about variance of prediction errors. It determines the typical size of the discrepancies between the observed and the forecasted values. This is because RMSE is valuable in exposing the level of approximation of the forecasts with observed values especially when accuracy is key in the weather information archive. A smaller RMSE value means better predictive results needed in marketing for product development and forecasting. Together with R², the relative measure of the mean squared error, RMSE, addresses both the goodness-of-fit and the magnitude of the error making these measures the cornerstone of model assessment.
 
+## Addressing the Research Question
+This research accomplishes this by providing an understanding of important variables measuring for instance temperature, humidity, pressure, and clouds in weather prediction. To achieve the best results and capture the important parameters, feature selection and engineering were performed. In the assessment of different supervised machine learning techniques, the study pointed out Random Forest and Gradient Boosting as best fitting algorithms for now; the two models display capability in handling intricate patterns. The results have further affirmed the relevance of these variables for obtaining precise and accurate weather forecasts
+
+![Alt Text](https://github.com/bijivemulakeerthi/Keerthi-Bijivemula/blob/6426b83e7f823483b84d7d5aea845e23ed6e84c5/image.png)
 
